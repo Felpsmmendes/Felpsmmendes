@@ -6,17 +6,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050014,35:170047,65:4C00A8,100:00E5FF&text=FELPS&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=63&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050014,35:170047,65:4C00A8,100:00E5FF&text=FELPS&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=63&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+INITIALIZING+FELPS.OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+WELCOME%2C+OPERATOR;%3E+WEB+%7C+BACKEND+%7C+DATABASES;%3E+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+INITIALIZING+FELPS.OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+WELCOME%2C+OPERATOR;%3E+WEB+%7C+PYTHON+%7C+DATABASES;%3E+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" />
 
 <br>
 
 <img src="https://img.shields.io/badge/%E2%97%89%20SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=080014"/>
-<img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-WEB%20%26%20BACKEND-B026FF?style=for-the-badge&labelColor=080014"/>
-<img src="https://img.shields.io/badge/%E2%97%89%20MODE-FULL%20STACK-FF2BD6?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-DEVELOPMENT-B026FF?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20MODE-LEARNING-FF2BD6?style=for-the-badge&labelColor=080014"/>
 
 </div>
 
@@ -38,8 +38,8 @@
 ║  NAME       :: Felps                                        ║
 ║  ROLE       :: Software Engineering Student                 ║
 ║  EDUCATION  :: Software Engineering @ FIAP                  ║
-║  SPECIALTY  :: Web & Full Stack Development                  ║
-║  FOCUS      :: Backend • Databases • Systems                 ║
+║  FOCUS      :: Software Development                          ║
+║  INTERESTS  :: Web • Python • Databases • Systems            ║
 ║  STATUS     :: ONLINE / BUILDING / LEARNING                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -47,56 +47,48 @@
 
 # `> ABOUT_ME`
 
-```php
-<?php
+```python
+class Felps:
 
-class Felps {
+    role = "Software Engineering Student"
+    focus = "Software Development"
 
-    public string $role = "Software Engineering Student";
-    public string $focus = "Web & Full Stack Development";
-    public string $backend = "PHP";
-    public string $database = "MySQL";
-
-    public array $interests = [
-        "Software Engineering",
-        "Backend Development",
-        "Full Stack Applications",
+    interests = [
+        "Web Development",
+        "Python",
         "Databases",
-        "APIs",
-        "System Architecture"
-    ];
+        "Software Engineering",
+        "Systems",
+        "Problem Solving"
+    ]
 
-    public function mission(): void {
-        echo "Transforming ideas into software.";
-    }
-}
+    def mission(self):
+        return "Transforming ideas into software."
 ```
 
-🎓 Estudante de **Engenharia de Software na FIAP**, buscando transformar conhecimento acadêmico em projetos práticos.
+🎓 Estudante de **Engenharia de Software na FIAP**, construindo minha trajetória na área de tecnologia através de estudos, projetos acadêmicos e projetos pessoais.
 
-💻 Atualmente foco meus estudos em **desenvolvimento web, backend, bancos de dados, APIs e construção de aplicações Full Stack**.
+💻 Atualmente tenho foco em **desenvolvimento web, Python, bancos de dados e fundamentos de Engenharia de Software**.
 
-🧠 Tenho interesse em entender o software de ponta a ponta — desde a interface e experiência do usuário até a lógica de negócio, APIs, banco de dados e organização da aplicação.
+🧠 Gosto de entender como as aplicações funcionam de ponta a ponta, desde a interface até a lógica, estrutura de dados e organização do sistema.
 
-🛠️ Atualmente trabalho principalmente com **HTML, CSS, Bootstrap, PHP, MySQL e Python**, além de ferramentas como Git, GitHub, VS Code, IntelliJ IDEA, Postman e XAMPP.
-
-🚀 **Objetivo:** construir uma base sólida em Engenharia de Software, desenvolver projetos cada vez mais completos e evoluir constantemente como desenvolvedor.
+🚀 Meu objetivo é evoluir constantemente, transformar conhecimento em projetos reais e construir uma base sólida para atuar profissionalmente como desenvolvedor.
 
 ---
 
-# `> TECH.ARSENAL`
+# `> TECH.STACK`
 
 <div align="center">
 
-### 🌐 WEB DEVELOPMENT
+### 🌐 WEB
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 
 <br><br>
 
-### ⚙️ PROGRAMMING & BACKEND
+### 🐍 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=php,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
@@ -106,7 +98,7 @@ class Felps {
 
 <br><br>
 
-### 🛠️ DEVELOPMENT TOOLS
+### 🛠️ TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,xampp&theme=dark" />
 
@@ -114,18 +106,51 @@ class Felps {
 
 ---
 
-# `> DEVELOPMENT.MATRIX`
+# `> KNOWLEDGE.MATRIX`
 
 <div align="center">
 
-|         ⚡ DOMAIN        | ◈ TECHNOLOGIES         |
-| :---------------------: | :--------------------- |
-|     🌐 **FRONTEND**     | HTML • CSS • Bootstrap |
-|      ⚙️ **BACKEND**     | PHP • Python           |
-|     🗄️ **DATABASE**    | MySQL                  |
-|    🔌 **API / TOOLS**   | Postman • XAMPP        |
-|  🔧 **VERSION CONTROL** | Git • GitHub           |
-| 📊 **DATA & ANALYTICS** | Excel • Power BI       |
+|          ◈ AREA          | ⚡ CURRENT FOCUS                                 |
+| :----------------------: | :---------------------------------------------- |
+|        🌐 **WEB**        | HTML • CSS • Bootstrap                          |
+|    🐍 **PROGRAMMING**    | Python                                          |
+|     🗄️ **DATABASE**     | MySQL • Database Fundamentals                   |
+|  🔧 **VERSION CONTROL**  | Git • GitHub                                    |
+| 🔌 **API / DEVELOPMENT** | Postman • API Fundamentals                      |
+|        📊 **DATA**       | Excel • Power BI                                |
+|    🧠 **ENGINEERING**    | Programming • Logic • Systems • Problem Solving |
+
+</div>
+
+> `PROFILE PRINCIPLE :: SHOW WHAT I KNOW. BUILD WHAT I DON'T.`
+
+---
+
+# `> LEARNING.PROTOCOL`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     LEARNING ROADMAP                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] HTML / CSS                                              ║
+║  [✓] Bootstrap                                               ║
+║  [✓] Python Fundamentals                                     ║
+║  [✓] MySQL / SQL Fundamentals                                ║
+║  [✓] Git & GitHub                                            ║
+║                                                              ║
+║  [>] Object-Oriented Programming                             ║
+║  [>] Backend Development                                     ║
+║  [>] REST APIs                                               ║
+║  [>] Advanced Database Concepts                              ║
+║  [>] Software Architecture                                   ║
+║  [>] Full Stack Development                                  ║
+║  [>] Clean Code & Best Practices                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -147,7 +172,7 @@ class Felps {
 
 ### 🎮 Brawl Stars Information Platform
 
-Projeto desenvolvido para praticar **desenvolvimento web, organização de informações, interfaces interativas e integração com banco de dados**.
+Projeto desenvolvido como forma de praticar **desenvolvimento web, organização de informações, interfaces e integração com banco de dados**.
 
 ```text
 STACK
@@ -158,29 +183,31 @@ STACK
 └── MySQL
 ```
 
+> PHP aparece aqui porque foi utilizado especificamente neste projeto. Não representa minha principal área de conhecimento atual.
+
 🔗 **Repository:**
 
 https://github.com/Felpsmmendes/Brast
 
 ---
 
-## ◈ `02 // SYSTEM.PROJECTS`
+## ◈ `02 // ACADEMIC.PROJECTS`
 
-🧠 **Software & Systems Development**
+🎓 **Software Engineering Projects**
 
-Projetos acadêmicos e pessoais voltados para:
+Projetos desenvolvidos durante minha formação acadêmica e estudos pessoais.
 
 ```text
-[+] Desenvolvimento de sistemas
 [+] Programação
 [+] Desenvolvimento Web
-[+] Banco de dados
-[+] APIs
-[+] Estruturação de aplicações
-[+] Resolução de problemas através de software
+[+] Banco de Dados
+[+] Estruturação de Sistemas
+[+] Lógica de Programação
+[+] Resolução de Problemas
+[+] Engenharia de Software
 ```
 
-> `STATUS :: PROJECTS IN DEVELOPMENT`
+> `STATUS :: CONTINUOUS DEVELOPMENT`
 
 ---
 
@@ -193,15 +220,17 @@ Projetos acadêmicos e pessoais voltados para:
 ║                                                              ║
 ║  [✓] Engenharia de Software @ FIAP                          ║
 ║  [✓] Desenvolvimento Web                                    ║
-║  [✓] Fundamentos de Banco de Dados                          ║
+║  [✓] Fundamentos de Programação                              ║
+║  [✓] Banco de Dados                                         ║
 ║  [✓] Git & GitHub                                            ║
 ║                                                              ║
-║  [>] Aprofundar PHP                                          ║
-║  [>] Evoluir Backend                                         ║
-║  [>] Desenvolver REST APIs                                   ║
-║  [>] Melhorar modelagem de bancos de dados                   ║
-║  [>] Estudar arquitetura de software                        ║
-║  [>] Aprimorar desenvolvimento Full Stack                    ║
+║  [>] Evoluir Python                                          ║
+║  [>] Aprimorar Backend                                       ║
+║  [>] Desenvolver APIs REST                                   ║
+║  [>] Aprofundar SQL                                          ║
+║  [>] Estudar Orientação a Objetos                            ║
+║  [>] Aprender Arquitetura de Software                        ║
+║  [>] Desenvolver aplicações Full Stack                       ║
 ║  [>] Criar projetos mais completos                           ║
 ║  [>] Fortalecer portfólio profissional                       ║
 ║                                                              ║
@@ -294,7 +323,7 @@ Projetos acadêmicos e pessoais voltados para:
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║       ◈ SYSTEM STATUS :: ONLINE                              ║
-║       ◈ FOCUS         :: WEB / BACKEND                      ║
+║       ◈ FOCUS         :: SOFTWARE DEVELOPMENT               ║
 ║       ◈ MODE          :: BUILD / LEARN / EVOLVE             ║
 ║       ◈ CONNECTION    :: ESTABLISHED                        ║
 ║                                                              ║
